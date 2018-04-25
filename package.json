@@ -1,6 +1,6 @@
 {
   "name": "node-webserver-bz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "upgrade from node-webserver",
   "main": "index.js",
   "scripts": {
